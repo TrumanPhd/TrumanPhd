@@ -1,3 +1,4 @@
+！！！！！！！！！！！！！勇攀人类科学高峰！！！！！！！！！！！！
 /*Hellow, nice to meet you, I am a student majoring in EE who love computer science and artificial intelligence.
 And I am doing something abort the implement of ML and DL.
 Hardware as well as software with development in technology is what I really enjoy.
