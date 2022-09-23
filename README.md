@@ -1,11 +1,6 @@
-！！！！！！！！！！！！！勇攀人类科学高峰！！！！！！！！！！！！
-/*Hellow, nice to meet you, I am a student majoring in EE who love computer science and artificial intelligence.
-And I am doing something abort the implement of ML and DL.
-Hardware as well as software with development in technology is what I really enjoy.
-It`s my pleasure to share my notion with different people. 
-talltive person as what I am, I enjoy thinking alond and absorb others ideas and progression by communication and also on Github.
-!!!!!我爱科研，计算机技术万岁！！！！！
-date:2022.9
-motion:我要跟各种学科的科学家合作做科研！！
-       welcome to you helpness and share!!!!!
-       Humans` grand science will boost soon!!!!!
+My name is Wangguohao (王国昊) in CHinese and Truman in English.
+I Love math and physics, usually absorbed in them.
+Algorithm and AI is excellent tools which I enjoy to do something with.
+Study forever and it's my pleasure to share science and technic with you, and do something with your coopration !!!
+
+
