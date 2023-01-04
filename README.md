@@ -1,3 +1,5 @@
+#深度学习发烧友——统计学习出身——GPU撕裂者——光头熬夜学习怪——HAOstudio本人
+#Ture love of Deeplearning--skilled coding both theory(commit in research and demo)--GPU is all you need
 My name is Wang Guohao in Chinese and you can call me Wang Kwohao or just call me Truman.
 I Love math and physics, usually absorbed in them.
 Algorithm and AI is excellent tools which I enjoy to do something with.
