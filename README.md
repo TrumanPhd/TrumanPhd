@@ -8,5 +8,4 @@ Study forever and it's my pleasure to share science and technic with you, and do
 I really want to something to change the world!!!
 email:Truman (a) nwafu \dot edu \dot cn
 
-（吹牛部分：00后最具影响力学者，黄河千人计划杰出人才，本科生物信息人工智能领军人物）
 学术是我毕生追求  学术就是敢想感做，敢于接受任何学术质疑，批评就是对我最好的尊重，欢迎交流讨论！！！
