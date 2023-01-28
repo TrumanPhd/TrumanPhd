@@ -9,3 +9,5 @@ I really want to something to change the world!!!
 email:Truman (a) nwafu \dot edu \dot cn
 
 学术是我毕生追求,欢迎交流讨论！！！
+小目标：申博士 大目标：院士/真正有意义的科学贡献
+小愿望：算力   大愿望：帽子
