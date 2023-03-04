@@ -12,6 +12,9 @@ email:Truman (a) nwafu \dot edu \dot cn
 从事深度学习理论研究，期待交流合作
 小目标：申博士/算力 大目标：院士/真正有意义的科学贡献+人工智能改变世界
 
+研究方向：深度学习基础网络结构创新 生物序列模式识别
+研究兴趣：做出ResNet Transformer 级别的工作
+
 我佩服ChatGPT这样的工程奇迹，但是创造出Transformer这样的基础理论是我的追求，这是我以学术为人生第一目标的原因
 
 I really admire the group who made ChatGPT, but I enjoy more about the innovation of ML theory or basic mechansim just like the muti-head attention, that's the motivation of my research. If you can do something like that or have a strong willing like that, it's my honour and glory to be your student!!!
