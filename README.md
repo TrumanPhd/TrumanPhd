@@ -18,3 +18,5 @@ email:Truman (a) nwafu \dot edu \dot cn
 我佩服ChatGPT这样的工程奇迹，但是创造出Transformer这样的基础理论是我的追求，这是我以学术为人生第一目标的原因
 
 I really admire the group who made ChatGPT, but I enjoy more about the innovation of ML theory or basic mechansim just like the muti-head attention, that's the motivation of my research. If you can do something like that or have a strong willing like that, it's my honour and glory to be your student!!!
+
+最近小心愿：写word不卡 VSC不闪退的mac笔电
