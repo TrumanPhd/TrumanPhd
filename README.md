@@ -19,4 +19,4 @@ email:Truman (a) nwafu \dot edu \dot cn
 
 I really admire the group who made ChatGPT, but I enjoy more about the innovation of ML theory or basic mechansim just like the muti-head attention, that's the motivation of my research. If you can do something like that or have a strong willing like that, it's my honour and glory to be your student!!!
 
-最近小心愿：写word不卡 VSC不闪退的mac笔电
+本科生中：生信中最懂AI的，AI中最懂生物的
