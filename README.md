@@ -14,6 +14,7 @@ email:Truman (a) nwafu \dot edu \dot cn
 
 研究方向：深度学习基础网络结构创新 生物序列模式识别
 研究兴趣：做出ResNet Transformer 级别的工作
+研究动力：Transfomer在AI的各个应用领域都很好的表现，对于深度学习来说，具有高泛化性的网络一直是创造的核心，这种基础结构不亚于自然世界中的牛顿三定律！！！
 
 我佩服ChatGPT这样的工程奇迹，但是创造出Transformer这样的基础理论是我的追求，这是我以学术为人生第一目标的原因
 
