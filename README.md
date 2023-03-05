@@ -6,7 +6,7 @@ Algorithm and AI is excellent tools which I enjoy to do something with.
 Study forever and it's my pleasure to share science and technic with you, and do something with your coopration !!!
 985sophomore(2021-2025), applying PhD in us! Research is my life long persuit!!! 
 I really want to something to change the world!!!
-email:Truman (a) nwafu \dot edu \dot cn
+email:Truman @ nwafu \dot edu \dot cn
 
 学术是我毕生追求,欢迎交流讨论！！！
 从事深度学习理论研究，期待交流合作
