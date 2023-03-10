@@ -5,7 +5,7 @@ I Love math and physics, usually absorbed in them.
 Algorithm and AI is excellent tools which I enjoy to do something with.
 Study forever and it's my pleasure to share science and technic with you, and do something with your coopration !!!
 birth:2003 
-985sophomore(2021-2025), applying PhD in us! Research is my life long persuit!!! 
+985 EE sophomore(2021-2025), applying PhD in us! Research is my life long persuit!!! 
 I really want to something to change the world!!!
 email:Truman @ nwafu \dot edu \dot cn
 
