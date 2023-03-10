@@ -9,10 +9,10 @@ I really want to something to change the world!!!
 email:Truman @ nwafu \dot edu \dot cn
 
 学术是我毕生追求,欢迎交流讨论！！！
-从事深度学习理论研究，期待交流合作
-小目标：申博士/算力 大目标：院士/真正有意义的科学贡献+人工智能改变世界
+从事模式识别与深度学习理论研究，期待交流合作
+小目标：申博士/算力 大目标：真正有意义的科学贡献+人工智能改变世界
 
-研究方向：深度学习基础网络结构创新 生物序列模式识别
+研究方向：深度学习基础网络结构创新 模式识别（生物序列方面经验丰富）
 研究兴趣：做出ResNet Transformer 级别的工作
 研究动力：Transfomer在AI的各个应用领域都很好的表现，对于深度学习来说，具有高泛化性的网络一直是创造的核心，这种基础结构不亚于自然世界中的牛顿三定律！！！
 
@@ -21,3 +21,4 @@ email:Truman @ nwafu \dot edu \dot cn
 I really admire the group who made ChatGPT, but I enjoy more about the innovation of ML theory or basic mechansim just like the muti-head attention, that's the motivation of my research. If you can do something like that or have a strong willing like that, it's my honour and glory to be your student!!!
 
 本科生中：生信中最懂AI的，AI中最懂生物的（比我强的大佬们都在做着让我五体投地更有意义的研究）
+有人想冲CVPR/ICCV/nips 25年最佳论文的吗，带我一个
