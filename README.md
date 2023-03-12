@@ -9,6 +9,7 @@ birth:2003
 I really want to something to change the world!!!
 email:Truman @ nwafu \dot edu \dot cn
 
+热爱AI，擅长深度学习统计学习 NLP/CV/system/bio都有经验，因为底层规律是相通的。 
 学术和改变世界是我毕生追求,欢迎交流讨论！！！
 从事模式识别与深度学习理论研究，期待交流合作
 小目标：申博士/算力 大目标：真正有意义的科学贡献(学术)+人工智能改变世界（创业,理论指导实践）
