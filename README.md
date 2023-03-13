@@ -30,4 +30,3 @@ I admire engineering wonders like ChatGPT and also want AI to change the world. 
 
 有人想冲CVPR/ICCV/nips 25年最佳论文的吗，带我一个
 
-
