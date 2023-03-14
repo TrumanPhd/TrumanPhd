@@ -15,7 +15,7 @@ Study forever and it's my pleasure to share science and technic with you, and do
 birth:2003 
 985 EE sophomore(2021-2025), applying PhD in us! Research is my life long persuit!!! 
 I really want to something to change the world!!!
-email:Truman @ nwafu \dot edu \dot cn
+email:Truman@nwafu \dot edu \dot cn
 
 热爱AI，擅长深度学习统计学习 NLP/CV/system/bio都有经验，因为底层规律是相通的。 
 学术和改变世界是我毕生追求,欢迎交流讨论！！！
