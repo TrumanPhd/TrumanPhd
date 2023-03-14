@@ -1,3 +1,10 @@
+最近动态：专心生物大数据+深度学习（大模型），人工智能纯算法已经足够发达了，同时自动机器学习已经足够优秀，我现在正在投入做好AI与生物raw data的接口，相信在不久的将来生物问题只是大语言模型的一个子块了，比如：可以直接将原始序列传入GPT，他就告诉我们是不是m6a M7G点位了
+最近不搞生物序列的特征提取了，我将我半年学习/创造的 特征提取（50+） 特征选择方法全部开源，欢迎学习，欢迎引用f5C那篇文章！！！
+f5C的项目和system-bio的展望部分仓库已经开源，让我们一起努力，让AI与生物更好结合，让我们的明天更好！！！
+Recent developments: Focusing on biological big data and deep learning (large models). Pure algorithmic artificial intelligence has already developed sufficiently, and automated machine learning is already good enough. I am now dedicated to improving the interface between AI and raw biological data. I believe that in the near future, biological problems will be just a subcomponent of large language models. For example, we can directly input the raw sequence into GPT, and it will tell us if it is an m6a M7G site or not.
+
+I am no longer working on feature extraction for biological sequences. I have made all of the feature extraction (50+) and selection methods that I have created/learned over the past six months open source. Feel free to learn from them and cite my article on f5C. The f5C project and the prospect section of the system-bio repository have also been open-sourced. Let us work together to better integrate AI and biology, and make our future brighter!
+
 #深度学习发烧友——统计学习出身——代码随便用记得引论文
 #Ture love of Deeplearning--skilled coding(pytorch/tensorflow) both theory(commit in pure research and demo)
 My name is Wang Guohao in Chinese and you can call me Wang Kwohao or just call me Truman.
@@ -28,5 +35,4 @@ My research interests include producing work at the level of ResNet Transformer.
 My research motivation comes from the fact that Transformer has performed well in various AI application fields, and for deep learning, networks with high generalization ability have always been the core of creation. This basic structure is as important as Newton's Three Laws in the natural world!!!
 I admire engineering wonders like ChatGPT and also want AI to change the world. Creating foundational theories like Transformer is also my pursuit.
 
-有人想冲CVPR/ICCV/nips 25年最佳论文的吗，带我一个
 
