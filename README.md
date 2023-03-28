@@ -1,5 +1,5 @@
 ******做好模型，讲好故事，深度学习-模式识别******
-Build good models, tell good stories, Deep learning - pattern recognition.
+***Build good models, tell good stories, Deep learning - pattern recognition.
 最近动态：专心生物大数据+深度学习（大模型），人工智能纯算法已经足够发达了，同时自动机器学习已经足够优秀，我现在正在投入做好AI与生物raw data的接口，相信在不久的将来生物问题只是大语言模型的一个子块了，比如：可以直接将原始序列传入GPT，他就告诉我们是不是m6a M7G点位了
 最近不搞生物序列的特征提取了，我将我半年学习/创造的 特征提取（50+） 特征选择方法全部开源，欢迎学习，欢迎引用f5C那篇文章！！！
 f5C的项目和system-bio的展望部分仓库已经开源，让我们一起努力，让AI与生物更好结合，让我们的明天更好！！！
