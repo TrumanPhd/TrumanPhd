@@ -1,5 +1,5 @@
 ******flag:MIT/Standford/CMU/Berkely Deep learning PHD！！！我爱深度学习******
-***Please contact me if you are doing something about Deep learing/System CV NLP bioinformation in us, my email Truman@nwafu(dot)edu.cn***
+***Please contact me if you are doing something about Deep learing/System CV NLP bioinformation in US, my email Truman@nwafu(dot)edu.cn***
 ***I am qualified for TA/RA award or another, feel free to contact me!!!***
 ******做好模型，讲好故事，深度学习-模式识别******
 *Build good models, tell good stories, Deep learning - pattern recognition.*
