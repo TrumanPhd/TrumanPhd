@@ -26,5 +26,5 @@ My research direction is innovative deep learning basic network structure and pa
 My research interests include producing work at the level of ResNet Transformer.
 My research motivation comes from the fact that Transformer has performed well in various AI application fields, and for deep learning, networks with high generalization ability have always been the core of creation. This basic structure is as important as Newton's Three Laws in the natural world!!!
 I admire engineering wonders like ChatGPT and also want AI to change the world. Creating foundational theories like Transformer is also my pursuit.
-
+![My Presentation](assets/rst.pdf)
 
