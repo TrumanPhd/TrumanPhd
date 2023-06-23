@@ -3,12 +3,6 @@
 ***I am qualified for TA/RA award or another, feel free to contact me!!!***
 ******做好模型，讲好故事，深度学习-模式识别******
 *Build good models, tell good stories, Deep learning - pattern recognition.*
-
-***paper: Breifing in bioinformatics/Nature communications/Nature***
-***目前从事序列分析算法（‘湿法’）研究，二代测序计算优化方法研究***
-
-***news: I am full time committing on emotional TTS for engineering both theory in Beijing, China recently !!!***
-
 Recent developments: Focusing on biological big data and deep learning (large models). Pure algorithmic artificial intelligence has already developed sufficiently, and automated machine learning is already good enough. I am now dedicated to improving the interface between AI and raw biological data. I believe that in the near future, biological problems will be just a subcomponent of large language models. For example, we can directly input the raw sequence into GPT, and it will tell us if it is an m6a M7G site or not.
 
 I am no longer working on feature extraction for biological sequences. I have made all of the feature extraction (50+) and selection methods that I have created/learned over the past six months open source. Feel free to learn from them and cite my article on f5C. The f5C project and the prospect section of the system-bio repository have also been open-sourced. Let us work together to better integrate AI and biology, and make our future brighter!
