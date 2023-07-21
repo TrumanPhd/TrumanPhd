@@ -4,3 +4,4 @@ The future is belong to AI!
 Deep learning lover!
 I enjoy pure research by myself, 
 and I also would like to be friends with you to share my ideas and looking forward your notion and innovation!
+/n Chief Project Manager of TTS department at <a href="https://www.psyai.com/home">psyai</a>
