@@ -6,4 +6,4 @@ Deep learning lover!
 I enjoy pure research by myself, 
 and I also would like to be friends with you to share my ideas and looking forward your notion and innovation!
 ## News
-2023.7 Principal Scientist of TTS department at <a href="https://www.psyai.com/home">psyai</a>
+2023.7 Scientist of TTS at <a href="https://www.psyai.com/home">psyai</a>, leading the research and development of Emotional Text-to-Speech (TTS)
