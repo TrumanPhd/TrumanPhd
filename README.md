@@ -5,7 +5,7 @@ The future is belong to AI!
 Deep learning lover!
 I enjoy pure research by myself, 
 and I also would like to be friends with you to share my ideas and looking forward your notion and innovation!
-## Applying PhD in U.S./Europe ! AI/AI4sci
+## Applying PhD for AI/AI4sci
 ## News
 2023.7 sharing awesome paper at <a href="https://space.bilibili.com/66821377/">bilibili</a>
 
