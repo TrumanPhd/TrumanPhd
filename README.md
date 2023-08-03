@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 I am Guohao Wang, you can call me Truman,
 I enjoy explore the diversity of neural network architecture and expand the boarder of AI
 The future is belong to AI!
