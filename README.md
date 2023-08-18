@@ -10,4 +10,4 @@ and I also would like to be friends with you to share my ideas and looking forwa
 ## News
 2023.7 sharing awesome paper at <a href="https://space.bilibili.com/66821377/">bilibili</a>
 
-2023.6 Research Intern of TTS/LLM at <a href="https://www.psyai.com/home">psyai</a>, leading the research and development of Emotional Text-to-Speech (TTS)
+2023.6 Research Intern of TTS/LLM at <a href="https://www.psyai.com/home">psyai</a>, Emotional Text-to-Speech (TTS)
