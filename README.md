@@ -1,12 +1,11 @@
 # Introduction
 I am Guohao Wang, you can call me Truman,
+I am committing on the research and application of AI in power system!
 I enjoy explore the diversity of neural network architecture and expand the boarder of AI
 The future is belong to AI!
 Deep learning lover!
-I enjoy pure research by myself, 
-and I also would like to be friends with you to share my ideas and looking forward your notion and innovation!
 ## Applying PhD for AI/AI4sci
-## Research interest: LLM Seq-analysis TTS-AGI AI4sci
+## Research interest: Smart Grid---The Application of AI in power grid, LLM, AIGC
 ## News
 2023.7 sharing awesome paper at <a href="https://space.bilibili.com/66821377/">bilibili</a>
 
