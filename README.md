@@ -16,19 +16,17 @@ I am an electrical engineer and AI researcher passionate about solving the globa
 My open-source contributions span across my current research in LLM-driven power systems and my previous works in renewable energy and smart grids.
 
 #### ⚡ 1. Large Models for Power System Scheduling (Current Focus)
-Solving large-scale, non-convex, and NP-hard power system problems using generative AI and foundational models.
-*   **[Upcoming] SCUC-LLM-Agent:** An open-source framework leveraging LLM Agents to accelerate solving large-scale Security-Constrained Unit Commitment (SCUC) problems. Integrates Source-Grid-Load-Storage synergistic optimization. *(Code will be released alongside my upcoming journal paper).*
 
 #### 🌍 2. Vision Foundation Models for Renewable Energy Assessment
 Pioneering the use of advanced computer vision to unlock global renewable energy potential.
-*   **[SolarSAM](https://github.com/TrumanPhd/SolarSAM-repo-link-here)**: An open-source pipeline utilizing the Segment Anything Model (SAM) and remote sensing for high-precision, building-scale photovoltaic (PV) potential assessment in emerging cities. 
+*   **[SolarSAM]([https://github.com/TrumanPhd/SolarSAM-repo-link-here](https://github.com/REAILAB/SolarMiner))**: An open-source pipeline utilizing the Segment Anything Model (SAM) and remote sensing for high-precision, building-scale photovoltaic (PV) potential assessment in emerging cities. 
     * *Published in: Renewable Energy (JCR Q1, TOP, IF=9.1)*
-*   **[Mine-PV-Vision](https://github.com/TrumanPhd/Mine-PV-Vision-repo-link-here)**: A framework assessing open-pit mine-site PV and floating PV potential using Vision Large Models. 
+*   **[Mine-PV-Vision]([https://github.com/TrumanPhd/Mine-PV-Vision-repo-link-here](https://github.com/REAILAB/SolarMiner))**: A framework assessing open-pit mine-site PV and floating PV potential using Vision Large Models. 
     * *Published in: Progress in Energy (JCR Q1, TOP, IF=9.8)*
 
 #### 🔌 3. Deep Learning for Grid Equipment Diagnosis
 Enhancing grid reliability through data-driven fault diagnosis methods.
-*   **[FRA-DiagSys](https://github.com/TrumanPhd/FRA-DiagSys-repo-link-here)**: A deep learning-based power transformer fault types and degrees diagnosis system using Frequency Response Analysis. 
+*   **[FRA-DiagSys]([https://github.com/TrumanPhd/FRA-DiagSys-repo-link-here](https://github.com/TrumanPhd/FRA-DiagSys))**: A deep learning-based power transformer fault types and degrees diagnosis system using Frequency Response Analysis. 
     * *Preprint available on [arXiv](https://arxiv.org/abs/2406.19623)*.
 *   **[SOA-KELM-Transformer](https://github.com/TrumanPhd/SOA-KELM-repo-link-here)**: Codebase for diagnosing transformer winding faults combining the FRA method with SOA-KELM.
     * *Published in: IEEE Access (JCR Q2, IF=3.6)*
