@@ -19,7 +19,7 @@ My open-source contributions span across my current research in LLM-driven power
 
 #### 🌍 2. Vision Foundation Models for Renewable Energy Assessment
 Pioneering the use of advanced computer vision to unlock global renewable energy potential.
-*   **[SolarSAM]([https://github.com/REAILAB/SolarMiner])**: An open-source pipeline utilizing the Segment Anything Model (SAM) and remote sensing for high-precision, building-scale photovoltaic (PV) potential assessment in emerging cities. 
+*   **[SolarSAM](https://github.com/REAILAB/SolarMiner)**: An open-source pipeline utilizing the Segment Anything Model (SAM) and remote sensing for high-precision, building-scale photovoltaic (PV) potential assessment in emerging cities. 
     * *Published in: Renewable Energy (JCR Q1, TOP, IF=9.1)*
 *   **[Mine-PV-Vision]([https://github.com/REAILAB/SolarMiner])**: A framework assessing open-pit mine-site PV and floating PV potential using Vision Large Models. 
     * *Published in: Progress in Energy (JCR Q1, TOP, IF=9.8)*
