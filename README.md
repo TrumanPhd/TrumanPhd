@@ -9,8 +9,6 @@
 
 I am an electrical engineer and AI researcher passionate about solving the global energy bottleneck in the AI era. My core vision is to bridge the gap between **Large Language/Vision Models (LLMs/VLMs)** and **Power System Optimization**. 
 
-“““🚀 **Currently actively looking for Ph.D. opportunities (Fall 2026/2027) in the US/Global top universities!**
-”””
 ---
 
 ### 🔬 Research Focus & Open Source Projects
