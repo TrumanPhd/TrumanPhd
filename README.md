@@ -5,7 +5,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-Truman-pink?logo=bilibili&style=flat-square)](https://space.bilibili.com/66821377)
 [![Email](https://img.shields.io/badge/Email-guohaowang@ieee.org-red?style=flat-square)](mailto:guohaowang@ieee.org)
 
-** Student @ China Electric Power Research Institute (CEPRI) | AI & Power Systems Pioneer**
+### Student @ China Electric Power Research Institute (CEPRI) | AI & Power Systems Pioneer
 
 I am an electrical engineer and AI researcher passionate about solving the global energy bottleneck in the AI era. My core vision is to bridge the gap between **Large Language/Vision Models (LLMs/VLMs)** and **Power System Optimization**. 
 
