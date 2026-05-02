@@ -7,7 +7,7 @@
 
 ### Student @ China Electric Power Research Institute (CEPRI) | AI & Power Systems Pioneer
 
-I am an electrical engineer and AI researcher passionate about solving the global energy bottleneck in the AI era. My core vision is to bridge the gap between **Large Language/Vision Models (LLMs/VLMs)** and **Power System Optimization**. 
+I am an electrical engineer and AI researcher passionate about solving the global energy bottleneck in the AI era. My core vision is to bridge the gap between **Large Language/Vision Models (LLMs/VLMs)** and **Power System Optimization/Renewable Energy**. 
 
 ---
 
